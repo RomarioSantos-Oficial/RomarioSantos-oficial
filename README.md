@@ -31,7 +31,6 @@
   <a href="https://instagram.com/romariosanto.oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "limaromario40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/romario-de-lima-dos-santos-047837192/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<div>
+  
   ![Snake animation](https://github.com/RomarioSantos-Oficial/RomarioSantos-oficial/blob/output/github-contribution-grid-snake.svg)
-<div>
+</div>
