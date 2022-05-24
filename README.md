@@ -9,6 +9,8 @@
 - ⚡ Reinventing yourself in studies...
 
 <div align="center">
+  
+  ![](https://raw.githubusercontent.com/RomarioSantos-Oficial/RomarioSantos-oficial/main/profile-summary-card-output/dracula/0-profile-details.svg)
   <a href= https://github.com/RomarioSantos-Oficial>
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RomarioSantos-Oficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioSantos-Oficial&layout=compact&langs_count=7&theme=dracula"/>
