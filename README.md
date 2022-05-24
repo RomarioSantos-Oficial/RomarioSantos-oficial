@@ -23,7 +23,7 @@
   <img align="center" alt="RomarioSantos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RomarioSantos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="RomarioSantos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="RomarioSantos-pic" src="https://i.pinimg.com/originals/dc/cc/6c/dccc6c3474d32d356f41dfd2ffdba61d.jpg" height="150" style="border-radius: 50%;">
+  <img align="right" alt="RomarioSantos-pic" src="https://media.giphy.com/media/zzyuGnm3YOqVVlhJii/giphy.gif" height="150" style="border-radius: 50%;">
 </div>
   
   
