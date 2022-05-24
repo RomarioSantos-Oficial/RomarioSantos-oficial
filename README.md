@@ -34,5 +34,7 @@
   <a href = "limaromario40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/romario-de-lima-dos-santos-047837192/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=romariosant0s)](https://github.com/gazf/github-readme-twitter)
+  
   ![Snake animation](https://github.com/RomarioSantos-Oficial/RomarioSantos-oficial/blob/output/github-contribution-grid-snake.svg)
 </div>
