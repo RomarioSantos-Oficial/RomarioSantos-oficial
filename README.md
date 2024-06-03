@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning to program JavaScript, Css, html
 - 🤔 currently looking for a job.
 - 💬 Contact email: limaromario40@gmail.com
-- 📫 social media: https://linktr.ee/romariosantos.oficial
+- 📫 social media: https://linktr.ee/euoromario
 - ⚡ Reinventing yourself in studies...
 
 <div align="center">
