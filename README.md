@@ -1,12 +1,12 @@
 ### Hello! I'm Romario Santos 👋
 
 
-- 🔭 Administration student. He studies programming in his spare time.
-- 🌱 I'm currently learning to program JavaScript, Css, html
-- 🤔 currently looking for a job.
+- 🔭 Bachelor in Administration, and Programmer in his spare time
+- 🌱 JavaScript, PHP, MySQL and AWS programmer in his spare time
+- 🤔 Currently looking for a job.
 - 💬 Contact email: limaromario40@gmail.com
-- 📫 social media: https://linktr.ee/euoromario
-- ⚡ Reinventing yourself in studies...
+- 📫 Social media: https://linktr.ee/euoromario
+-⚡ Reinventing yourself in your studies...
 
 <div align="center">
   
