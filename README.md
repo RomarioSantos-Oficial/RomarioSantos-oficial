@@ -6,7 +6,7 @@
 - 🤔 Currently looking for a job.
 - 💬 Contact email: limaromario40@gmail.com
 - 📫 Social media: https://linktr.ee/euoromario
--⚡ Reinventing yourself in your studies...
+- ⚡ Reinventing yourself in your studies...
 
 <div align="center">
   
